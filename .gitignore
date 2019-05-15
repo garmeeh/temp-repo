@@ -1,0 +1,9 @@
+node_modules
+*.log
+.next
+.history
+dist
+e2e/cypress/videos
+coverage
+yarn.lock
+lib
